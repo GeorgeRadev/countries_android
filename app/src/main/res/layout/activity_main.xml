@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/bestScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="20dp"
+        android:text="best score"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/lastScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="20dp"
+        android:text="last score"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/separator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:text=" "
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+    <Button
+        android:id="@+id/WorldMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="openWorldMap"
+        android:padding="20dp"
+        android:text="World Map"
+        android:textAllCaps="false"
+        android:textColor="@color/light_gray"
+        android:textColorHighlight="@color/white"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/CountriesList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="openCountriesList"
+        android:padding="20dp"
+        android:text="Countries List"
+        android:textAllCaps="false"
+        android:textColor="@color/light_gray"
+        android:textColorHighlight="@color/white"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Quizz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/greenbutton"
+        android:onClick="startQuizz"
+        android:padding="20dp"
+        android:text="Quiz"
+        android:textAllCaps="false"
+        android:textColor="@color/light_gray"
+        android:textColorHighlight="@color/white"
+        android:textSize="20sp" />
+
+</LinearLayout>
