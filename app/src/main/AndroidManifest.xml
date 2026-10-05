@@ -15,6 +15,9 @@
             android:name=".CountriesList"
             android:parentActivityName=".MainActivity" />
         <activity
+            android:name=".CountryInfo"
+            android:parentActivityName=".CountriesList" />
+        <activity
             android:name=".Quiz"
             android:parentActivityName=".MainActivity" />
         <activity

@@ -1,5 +1,6 @@
 package org.game.countries;
 
+import android.content.Intent;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import android.widget.ListView;
@@ -18,5 +19,10 @@ public class CountriesList extends AppCompatActivity {
         listView = findViewById(R.id.listCountries);
         CountriesListAdapter adapter = new CountriesListAdapter(this, R.layout.countries_list_row, DB.dbStrings);
         listView.setAdapter(adapter);
+        listView.setOnItemClickListener((parent, view, position, id) -> {
+            Intent intent = new Intent(this, CountryInfo.class);
+            intent.putExtra(CountryInfo.EXTRA_COUNTRY_INDEX, position);
+            startActivity(intent);
+        });
     }
 }
