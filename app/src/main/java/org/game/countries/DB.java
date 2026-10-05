@@ -13,71 +13,71 @@ public class DB {
 //
                     new String[]{"Albania", "Tirana", "al", "Europe"},
 //
-                    new String[]{"Algeria", "Algiers", "ag", "Africa"},
+                    new String[]{"Algeria", "Algiers", "dz", "Africa"},
 //
-                    new String[]{"American Samoa", "Pago Pago", "aq", "Oceania"},
+                    new String[]{"American Samoa", "Pago Pago", "as", "Oceania"},
 //
-                    new String[]{"Andorra", "Andorra-la-Vella", "an", "Europe"},
+                    new String[]{"Andorra", "Andorra-la-Vella", "ad", "Europe"},
 //
                     new String[]{"Angola", "Luanda", "ao", "Africa"},
 //
-                    new String[]{"Anguilla", "The Valley", "av", "America"},
+                    new String[]{"Anguilla", "The Valley", "ai", "America"},
 //
-                    new String[]{"Antigua and Barbuda", "St. John’s", "ac", "America"},
+                    new String[]{"Antigua and Barbuda", "St. John’s", "ag", "America"},
 //
                     new String[]{"Argentina", "Buenos Aires", "ar", "America"},
 //
                     new String[]{"Armenia", "Yerevan", "am", "Europe"},
 //
-                    new String[]{"Aruba", "Oranjestad ", "aa", "America"},
+                    new String[]{"Aruba", "Oranjestad ", "aw", "America"},
 //
-                    new String[]{"Australia", "Canberra", "as", "Oceania"},
+                    new String[]{"Australia", "Canberra", "au", "Oceania"},
 //
-                    new String[]{"Austria", "Vienna", "au", "Europe"},
+                    new String[]{"Austria", "Vienna", "at", "Europe"},
 //
-                    new String[]{"Azerbaijan", "Baku", "aj", "Europe"},
+                    new String[]{"Azerbaijan", "Baku", "az", "Europe"},
 //
-                    new String[]{"Bahamas", "Nassau", "bf", "America"},
+                    new String[]{"Bahamas", "Nassau", "bs", "America"},
 //
-                    new String[]{"Bahrain", "Manama", "ba", "Asia"},
+                    new String[]{"Bahrain", "Manama", "bh", "Asia"},
 //
-                    new String[]{"Bangladesh", "Dhaka", "bg", "Asia"},
+                    new String[]{"Bangladesh", "Dhaka", "bd", "Asia"},
 //
                     new String[]{"Barbados", "Bridgetown", "bb", "America"},
 //
-                    new String[]{"Belarus", "Minsk", "bo", "Europe"},
+                    new String[]{"Belarus", "Minsk", "by", "Europe"},
 //
                     new String[]{"Belgium", "Brussels", "be", "Europe"},
 //
-                    new String[]{"Belize", "Belmopan", "bh", "America"},
+                    new String[]{"Belize", "Belmopan", "bz", "America"},
 //
-                    new String[]{"Benin", "Porto-Novo", "bn", "Africa"},
+                    new String[]{"Benin", "Porto-Novo", "bj", "Africa"},
 //
-                    new String[]{"Bermuda", "Hamilton", "bd", "America"},
+                    new String[]{"Bermuda", "Hamilton", "bm", "America"},
 //
                     new String[]{"Bhutan", "Thimphu", "bt", "Asia"},
 //
-                    new String[]{"Bolivia", "La Paz", "bl", "America"},
+                    new String[]{"Bolivia", "La Paz", "bo", "America"},
 //
-                    new String[]{"Bosnia and Herzegovina", "Sarajevo", "bk", "Europe"},
+                    new String[]{"Bosnia and Herzegovina", "Sarajevo", "ba", "Europe"},
 //
-                    new String[]{"Botswana", "Gaborone", "bc", "Africa"},
+                    new String[]{"Botswana", "Gaborone", "bw", "Africa"},
 //
                     new String[]{"Brazil", "Brasília", "br", "America"},
 //
                     new String[]{"British Indian Ocean Territory", "Diego Garcia", "io", "Asia"},
 //
-                    new String[]{"British Virgin Islands", "Road Town", "vi", "America"},
+                    new String[]{"British Virgin Islands", "Road Town", "vg", "America"},
 //
-                    new String[]{"Brunei", "Bandar Seri Begawan", "bx", "Asia"},
+                    new String[]{"Brunei", "Bandar Seri Begawan", "bn", "Asia"},
 //
-                    new String[]{"Bulgaria", "Sofia", "bu", "Europe"},
+                    new String[]{"Bulgaria", "Sofia", "bg", "Europe"},
 //
-                    new String[]{"Burkina Faso", "Ouagadougou", "uv", "Africa"},
+                    new String[]{"Burkina Faso", "Ouagadougou", "bf", "Africa"},
 //
-                    new String[]{"Burundi", "Bujumbura", "by", "Africa"},
+                    new String[]{"Burundi", "Bujumbura", "bi", "Africa"},
 //
-                    new String[]{"Cambodia", "Phnom Penh", "cb", "Asia"},
+                    new String[]{"Cambodia", "Phnom Penh", "kh", "Asia"},
 //
                     new String[]{"Cameroon", "Yaoundé", "cm", "Africa"},
 //
@@ -85,61 +85,61 @@ public class DB {
 //
                     new String[]{"Cape Verde", "Praia", "cv", "Africa"},
 //
-                    new String[]{"Cayman Islands", "George Town", "cj", "America"},
+                    new String[]{"Cayman Islands", "George Town", "ky", "America"},
 //
-                    new String[]{"Central African Republic", "Bangui", "ct", "Africa"},
+                    new String[]{"Central African Republic", "Bangui", "cf", "Africa"},
 //
-                    new String[]{"Chad", "N’djamena", "cd", "Africa"},
+                    new String[]{"Chad", "N’djamena", "td", "Africa"},
 //
-                    new String[]{"Chile", "Santiago", "ci", "America"},
+                    new String[]{"Chile", "Santiago", "cl", "America"},
 //
-                    new String[]{"China", "Beijing", "ch", "Asia"},
+                    new String[]{"China", "Beijing", "cn", "Asia"},
 //
-                    new String[]{"Christmas Island", "The Settlement", "kt", "Asia"},
+                    new String[]{"Christmas Island", "The Settlement", "cx", "Asia"},
 //
-                    new String[]{"Cocos (Keeling) Islands", "West Island ", "ck", "Asia"},
+                    new String[]{"Cocos (Keeling) Islands", "West Island ", "cc", "Asia"},
 //
                     new String[]{"Colombia", "Bogotá", "co", "America"},
 //
-                    new String[]{"Comoros", "Moroni", "cn", "Africa"},
+                    new String[]{"Comoros", "Moroni", "km", "Africa"},
 //
-                    new String[]{"Congo", "Kinshasa", "cg", "Africa"},
+                    new String[]{"Congo", "Kinshasa", "cd", "Africa"},
 //
-                    new String[]{"Cook Islands", "Avarua", "cw", "Oceania"},
+                    new String[]{"Cook Islands", "Avarua", "ck", "Oceania"},
 //
-                    new String[]{"Costa Rica", "San José", "cs", "America"},
+                    new String[]{"Costa Rica", "San José", "cr", "America"},
 //
-                    new String[]{"Cote d'Ivoire", "Yamoussoukro", "iv", "Africa"},
+                    new String[]{"Cote d'Ivoire", "Yamoussoukro", "ci", "Africa"},
 //
                     new String[]{"Croatia", "Zagreb", "hr", "Europe"},
 //
                     new String[]{"Cuba", "Havana", "cu", "America"},
 //
-                    new String[]{"Curasao", "Willemstad", "cc", "America"},
+                    new String[]{"Curasao", "Willemstad", "cw", "America"},
 //
                     new String[]{"Cyprus", "Nicosia", "cy", "Asia"},
 //
-                    new String[]{"Czech Republic", "Prague", "ez", "Europe"},
+                    new String[]{"Czech Republic", "Prague", "cz", "Europe"},
 //
-                    new String[]{"Denmark", "Copenhagen", "da", "Europe"},
+                    new String[]{"Denmark", "Copenhagen", "dk", "Europe"},
 //
                     new String[]{"Djibouti", "Djibouti", "dj", "Africa"},
 //
-                    new String[]{"Dominica", "Roseau", "do", "America"},
+                    new String[]{"Dominica", "Roseau", "dm", "America"},
 //
-                    new String[]{"Dominican Republic", "Santo Domingo", "dr", "America"},
+                    new String[]{"Dominican Republic", "Santo Domingo", "do", "America"},
 //
                     new String[]{"Ecuador", "Quito", "ec", "America"},
 //
                     new String[]{"Egypt", "Cairo", "eg", "Africa"},
 //
-                    new String[]{"El Salvador", "San Salvador", "es", "America"},
+                    new String[]{"El Salvador", "San Salvador", "sv", "America"},
 //
-                    new String[]{"Equatorial Guinea", "Malabo", "ek", "Africa"},
+                    new String[]{"Equatorial Guinea", "Malabo", "gq", "Africa"},
 //
                     new String[]{"Eritrea", "Asmara", "er", "Africa"},
 //
-                    new String[]{"Estonia", "Tallinn", "en", "Europe"},
+                    new String[]{"Estonia", "Tallinn", "ee", "Europe"},
 //
                     new String[]{"Ethiopia", "Addis Ababa", "et", "Africa"},
 //
@@ -153,15 +153,15 @@ public class DB {
 //
                     new String[]{"France", "Paris", "fr", "Europe"},
 //
-                    new String[]{"French Polynesia", "Papeete", "fp", "Oceania"},
+                    new String[]{"French Polynesia", "Papeete", "pf", "Oceania"},
 //
-                    new String[]{"Gabon", "Libreville", "gb", "Africa"},
+                    new String[]{"Gabon", "Libreville", "ga", "Africa"},
 //
-                    new String[]{"Gambia", "Banjul", "ga", "Africa"},
+                    new String[]{"Gambia", "Banjul", "gm", "Africa"},
 //
-                    new String[]{"Georgia", "Tbilisi", "gg", "Europe"},
+                    new String[]{"Georgia", "Tbilisi", "ge", "Europe"},
 //
-                    new String[]{"Germany", "Berlin", "gm", "Europe"},
+                    new String[]{"Germany", "Berlin", "de", "Europe"},
 //
                     new String[]{"Ghana", "Accra", "gh", "Africa"},
 //
@@ -171,29 +171,29 @@ public class DB {
 //
                     new String[]{"Greenland", "Nuuk", "gl", "America"},
 //
-                    new String[]{"Grenada", "Saint George's", "gj", "America"},
+                    new String[]{"Grenada", "Saint George's", "gd", "America"},
 //
-                    new String[]{"Guam", "Hagatna (Agana)", "gq", "Oceania"},
+                    new String[]{"Guam", "Hagatna (Agana)", "gu", "Oceania"},
 //
                     new String[]{"Guatemala", "Guatemala City", "gt", "America"},
 //
-                    new String[]{"Guernsey", "Saint Peter Port", "gk", "Europe"},
+                    new String[]{"Guernsey", "Saint Peter Port", "gg", "Europe"},
 //
-                    new String[]{"Guinea", "Conakry", "gv", "Africa"},
+                    new String[]{"Guinea", "Conakry", "gn", "Africa"},
 //
-                    new String[]{"Guinea-Bissau", "Bissau", "pu", "Africa"},
+                    new String[]{"Guinea-Bissau", "Bissau", "gw", "Africa"},
 //
                     new String[]{"Guyana", "Georgetown", "gy", "America"},
 //
-                    new String[]{"Haiti", "Port-au-Prince", "ha", "America"},
+                    new String[]{"Haiti", "Port-au-Prince", "ht", "America"},
 //
-                    new String[]{"Honduras", "Tegucigalpa", "ho", "America"},
+                    new String[]{"Honduras", "Tegucigalpa", "hn", "America"},
 //
                     new String[]{"Hong Kong", "Hong Kong", "hk", "Asia"},
 //
                     new String[]{"Hungary", "Budapest", "hu", "Europe"},
 //
-                    new String[]{"Iceland", "Reykjavik", "ic", "Europe"},
+                    new String[]{"Iceland", "Reykjavik", "is", "Europe"},
 //
                     new String[]{"India", "Delhi", "in", "Asia"},
 //
@@ -201,19 +201,19 @@ public class DB {
 //
                     new String[]{"Iran", "Tehran", "ir", "Asia"},
 //
-                    new String[]{"Iraq", "Baghdad", "iz", "Asia"},
+                    new String[]{"Iraq", "Baghdad", "iq", "Asia"},
 //
-                    new String[]{"Ireland", "Dublin", "ei", "Europe"},
+                    new String[]{"Ireland", "Dublin", "ie", "Europe"},
 //
                     new String[]{"Isle of Man", "Douglas", "im", "Europe"},
 //
-                    new String[]{"Israel", "Jerusalem", "is", "Asia"},
+                    new String[]{"Israel", "Jerusalem", "il", "Asia"},
 //
                     new String[]{"Italy", "Rome", "it", "Europe"},
 //
                     new String[]{"Jamaica", "Kingston", "jm", "America"},
 //
-                    new String[]{"Japan", "Tokyo", "ja", "Asia"},
+                    new String[]{"Japan", "Tokyo", "jp", "Asia"},
 //
                     new String[]{"Jersey", "Saint Helier", "je", "Europe"},
 //
@@ -223,39 +223,39 @@ public class DB {
 //
                     new String[]{"Kenya", "Nairobi", "ke", "Africa"},
 //
-                    new String[]{"Kiribati", "Tarawa", "kr", "Oceania"},
+                    new String[]{"Kiribati", "Tarawa", "ki", "Oceania"},
 //
-                    new String[]{"Kosovo", "Pristina", "kv", "Europe"},
+                    new String[]{"Kosovo", "Pristina", "xk", "Europe"},
 //
-                    new String[]{"Kuwait", "Kuwait City", "ku", "Asia"},
+                    new String[]{"Kuwait", "Kuwait City", "kw", "Asia"},
 //
                     new String[]{"Kyrgyzstan", "Bishkek", "kg", "Asia"},
 //
                     new String[]{"Laos", "Vientiane", "la", "Asia"},
 //
-                    new String[]{"Latvia", "Riga", "lg", "Europe"},
+                    new String[]{"Latvia", "Riga", "lv", "Europe"},
 //
-                    new String[]{"Lebanon", "Beirut", "le", "Asia"},
+                    new String[]{"Lebanon", "Beirut", "lb", "Asia"},
 //
-                    new String[]{"Lesotho", "Maseru", "lt", "Africa"},
+                    new String[]{"Lesotho", "Maseru", "ls", "Africa"},
 //
-                    new String[]{"Liberia", "Monrovia", "li", "Africa"},
+                    new String[]{"Liberia", "Monrovia", "lr", "Africa"},
 //
                     new String[]{"Libya", "Tripoli", "ly", "Africa"},
 //
-                    new String[]{"Liechtenstein", "Vaduz", "ls", "Europe"},
+                    new String[]{"Liechtenstein", "Vaduz", "li", "Europe"},
 //
-                    new String[]{"Lithuania", "Vilnius", "lh", "Europe"},
+                    new String[]{"Lithuania", "Vilnius", "lt", "Europe"},
 //
                     new String[]{"Luxembourg", "Luxembourg", "lu", "Europe"},
 //
-                    new String[]{"Macau", "Macau", "mc", "Asia"},
+                    new String[]{"Macau", "Macau", "mo", "Asia"},
 //
                     new String[]{"Macedonia", "Skopje", "mk", "Europe"},
 //
-                    new String[]{"Madagascar", "Antananarivo", "ma", "Africa"},
+                    new String[]{"Madagascar", "Antananarivo", "mg", "Africa"},
 //
-                    new String[]{"Malawi", "Lilongwe", "mi", "Africa"},
+                    new String[]{"Malawi", "Lilongwe", "mw", "Africa"},
 //
                     new String[]{"Malaysia", "Kuala Lumpur", "my", "Asia"},
 //
@@ -265,13 +265,13 @@ public class DB {
 //
                     new String[]{"Malta", "Valletta", "mt", "Europe"},
 //
-                    new String[]{"Marshall Islands", "Majuro", "rm", "Oceania"},
+                    new String[]{"Marshall Islands", "Majuro", "mh", "Oceania"},
 //
                     new String[]{"Mauritania", "Nouakchott", "mr", "Africa"},
 //
-                    new String[]{"Mauritius", "Port Louis", "mp", "Africa"},
+                    new String[]{"Mauritius", "Port Louis", "mu", "Africa"},
 //
-                    new String[]{"Mayotte", "Mamoudzou", "mf", "Africa"},
+                    new String[]{"Mayotte", "Mamoudzou", "yt", "Africa"},
 //
                     new String[]{"Mexico", "Mexico City", "mx", "America"},
 //
@@ -279,21 +279,21 @@ public class DB {
 //
                     new String[]{"Moldova", "Kishinev", "md", "Europe"},
 //
-                    new String[]{"Monaco", "Monaco", "mn", "Europe"},
+                    new String[]{"Monaco", "Monaco", "mc", "Europe"},
 //
-                    new String[]{"Mongolia", "Ulan Bator", "mg", "Asia"},
+                    new String[]{"Mongolia", "Ulan Bator", "mn", "Asia"},
 //
-                    new String[]{"Montenegro", "Podgorica", "mj", "Europe"},
+                    new String[]{"Montenegro", "Podgorica", "me", "Europe"},
 //
-                    new String[]{"Montserrat", "Plymouth", "mh", "America"},
+                    new String[]{"Montserrat", "Plymouth", "ms", "America"},
 //
-                    new String[]{"Morocco", "Rabat", "mo", "Africa"},
+                    new String[]{"Morocco", "Rabat", "ma", "Africa"},
 //
                     new String[]{"Mozambique", "Maputo", "mz", "Africa"},
 //
                     new String[]{"Myanmar", "Naypyidaw", "mm", "Asia"},
 //
-                    new String[]{"Namibia", "Windhoek", "wa", "Africa"},
+                    new String[]{"Namibia", "Windhoek", "na", "Africa"},
 //
                     new String[]{"Nauru", "Yaren", "nr", "Oceania"},
 //
@@ -301,65 +301,65 @@ public class DB {
 //
                     new String[]{"Netherlands", "Amsterdam", "nl", "Europe"},
 //
-                    new String[]{"Netherlands Antilles", "Willemstad", "nt", "America"},
+                    new String[]{"Netherlands Antilles", "Willemstad", "an", "America"},
 //
                     new String[]{"New Zealand", "Wellington", "nz", "Oceania"},
 //
-                    new String[]{"Nicaragua", "Managua", "nu", "America"},
+                    new String[]{"Nicaragua", "Managua", "ni", "America"},
 //
-                    new String[]{"Niger", "Niamey", "ng", "Africa"},
+                    new String[]{"Niger", "Niamey", "ne", "Africa"},
 //
-                    new String[]{"Nigeria", "Abuja", "ni", "Africa"},
+                    new String[]{"Nigeria", "Abuja", "ng", "Africa"},
 //
-                    new String[]{"Niue", "Alofi", "ne", "Oceania"},
+                    new String[]{"Niue", "Alofi", "nu", "Oceania"},
 //
                     new String[]{"Norfolk Island", "Kingston", "nf", "Oceania"},
 //
-                    new String[]{"North Korea", "Pyongyang", "kn", "Asia"},
+                    new String[]{"North Korea", "Pyongyang", "kp", "Asia"},
 //
-                    new String[]{"Northern Mariana Islands", "Saipan", "cq", "Oceania"},
+                    new String[]{"Northern Mariana Islands", "Saipan", "mp", "Oceania"},
 //
                     new String[]{"Norway", "Oslo", "no", "Europe"},
 //
-                    new String[]{"Oman", "Muscat", "mu", "Asia"},
+                    new String[]{"Oman", "Muscat", "om", "Asia"},
 //
                     new String[]{"Pakistan", "Islamabad", "pk", "Asia"},
 //
-                    new String[]{"Palau", "Ngerulmud", "ps", "Oceania"},
+                    new String[]{"Palau", "Ngerulmud", "pw", "Oceania"},
 //
-                    new String[]{"Panama", "Panamá City", "pm", "America"},
+                    new String[]{"Panama", "Panamá City", "pa", "America"},
 //
-                    new String[]{"Papua New Guinea", "Port Moresby", "pp", "Oceania"},
+                    new String[]{"Papua New Guinea", "Port Moresby", "pg", "Oceania"},
 //
-                    new String[]{"Paraguay", "Asunción", "pa", "America"},
+                    new String[]{"Paraguay", "Asunción", "py", "America"},
 //
                     new String[]{"Peru", "Lima", "pe", "America"},
 //
-                    new String[]{"Philippines", "Manila", "rp", "Asia"},
+                    new String[]{"Philippines", "Manila", "ph", "Asia"},
 //
-                    new String[]{"Pitcairn Islands", "Adamstown", "pc", "Oceania"},
+                    new String[]{"Pitcairn Islands", "Adamstown", "pn", "Oceania"},
 //
                     new String[]{"Poland", "Warsaw", "pl", "Europe"},
 //
-                    new String[]{"Portugal", "Lisbon", "po", "Europe"},
+                    new String[]{"Portugal", "Lisbon", "pt", "Europe"},
 //
-                    new String[]{"Puerto Rico", "San Juan", "rq", "America"},
+                    new String[]{"Puerto Rico", "San Juan", "pr", "America"},
 //
                     new String[]{"Qatar", "Doha", "qa", "Asia"},
 //
                     new String[]{"Romania", "Bucharest ", "ro", "Europe"},
 //
-                    new String[]{"Russia", "Moscow", "rs", "Europe"},
+                    new String[]{"Russia", "Moscow", "ru", "Europe"},
 //
                     new String[]{"Rwanda", "Kigali", "rw", "Africa"},
 //
-                    new String[]{"Saint Barthelemy", "Gustavia", "tb", "America"},
+                    new String[]{"Saint Barthelemy", "Gustavia", "bl", "America"},
 //
                     new String[]{"Saint Helena", "Jamestown", "sh", "Africa"},
 //
-                    new String[]{"Saint Kitts and Nevis", "Basseterre", "sc", "America"},
+                    new String[]{"Saint Kitts and Nevis", "Basseterre", "kn", "America"},
 //
-                    new String[]{"Saint Lucia", "Castries", "st", "America"},
+                    new String[]{"Saint Lucia", "Castries", "lc", "America"},
 //
                     new String[]{"Saint Vincent and the Grenadines", "Kingstown", "vc", "America"},
 //
@@ -367,142 +367,134 @@ public class DB {
 //
                     new String[]{"San Marino", "San Marino", "sm", "Europe"},
 //
-                    new String[]{"Sao Tome and Principe", "São Tomé", "tp", "Africa"},
+                    new String[]{"Sao Tome and Principe", "São Tomé", "st", "Africa"},
 //
                     new String[]{"Saudi Arabia", "Riyadh", "sa", "Asia"},
 //
-                    new String[]{"Senegal", "Dakar", "sg", "Africa"},
+                    new String[]{"Senegal", "Dakar", "sn", "Africa"},
 //
-                    new String[]{"Serbia", "Belgrade", "ri", "Europe"},
+                    new String[]{"Serbia", "Belgrade", "rs", "Europe"},
 //
-                    new String[]{"Seychelles", "Victoria", "se", "Africa"},
+                    new String[]{"Seychelles", "Victoria", "sc", "Africa"},
 //
                     new String[]{"Sierra Leone", "Freetown", "sl", "Africa"},
 //
-                    new String[]{"Singapore", "Singapore", "sn", "Asia"},
+                    new String[]{"Singapore", "Singapore", "sg", "Asia"},
 //
-                    new String[]{"Sint Maarten", "Philipsburg", "sk", "America"},
+                    new String[]{"Sint Maarten", "Philipsburg", "sx", "America"},
 //
-                    new String[]{"Slovakia", "Bratislava", "lo", "Europe"},
+                    new String[]{"Slovakia", "Bratislava", "sk", "Europe"},
 //
                     new String[]{"Slovenia", "Ljubljana", "si", "Europe"},
 //
-                    new String[]{"Solomon Islands", "Honiara", "bp", "Oceania"},
+                    new String[]{"Solomon Islands", "Honiara", "sb", "Oceania"},
 //
                     new String[]{"Somalia", "Mogadishu", "so", "Africa"},
 //
-                    new String[]{"South Africa", "Pretoria", "sf", "Africa"},
+                    new String[]{"South Africa", "Pretoria", "za", "Africa"},
 //
-                    new String[]{"South Georgia and the South Sandwich Islands", "Grytviken", "sx", "America"},
+                    new String[]{"South Georgia and the South Sandwich Islands", "Grytviken", "gs", "America"},
 //
-                    new String[]{"South Korea", "Seoul", "ks", "Asia"},
+                    new String[]{"South Korea", "Seoul", "kr", "Asia"},
 //
-                    new String[]{"Spain", "Madrid", "sp", "Europe"},
+                    new String[]{"Spain", "Madrid", "es", "Europe"},
 //
-                    new String[]{"Sri Lanka", "Colombo", "ce", "Asia"},
+                    new String[]{"Sri Lanka", "Colombo", "lk", "Asia"},
 //
-                    new String[]{"Sudan", "Khartoum", "su", "Africa"},
+                    new String[]{"Sudan", "Khartoum", "sd", "Africa"},
 //
-                    new String[]{"Suriname", "Paramaribo", "ns", "America"},
+                    new String[]{"Suriname", "Paramaribo", "sr", "America"},
 //
-                    new String[]{"Swaziland", "Mbabane", "wz", "Africa"},
+                    new String[]{"Swaziland", "Mbabane", "sz", "Africa"},
 //
-                    new String[]{"Sweden", "Stockholm", "sw", "Europe"},
+                    new String[]{"Sweden", "Stockholm", "se", "Europe"},
 //
-                    new String[]{"Switzerland", "Berne", "sz", "Europe"},
+                    new String[]{"Switzerland", "Berne", "ch", "Europe"},
 //
                     new String[]{"Syria", "Damascus", "sy", "Asia"},
 //
                     new String[]{"Taiwan", "Taipei", "tw", "Asia"},
 //
-                    new String[]{"Tajikistan", "Dushanbe", "ti", "Asia"},
+                    new String[]{"Tajikistan", "Dushanbe", "tj", "Asia"},
 //
                     new String[]{"Tanzania", "Dodoma", "tz", "Africa"},
 //
                     new String[]{"Thailand", "Bangkok", "th", "Asia"},
 //
-                    new String[]{"Timor-Leste", "Dili", "tt", "Asia"},
+                    new String[]{"Timor-Leste", "Dili", "tl", "Asia"},
 //
-                    new String[]{"Togo", "Lomé", "to", "Africa"},
+                    new String[]{"Togo", "Lomé", "tg", "Africa"},
 //
-                    new String[]{"Tokelau", "none", "tl", "Oceania"},
+                    new String[]{"Tokelau", "none", "tk", "Oceania"},
 //
-                    new String[]{"Tonga", "Nuku’alofa", "tn", "Oceania"},
+                    new String[]{"Tonga", "Nuku’alofa", "to", "Oceania"},
 //
-                    new String[]{"Trinidad and Tobago", "Port-of-Spain", "td", "America"},
+                    new String[]{"Trinidad and Tobago", "Port-of-Spain", "tt", "America"},
 //
-                    new String[]{"Tunisia", "Tunis", "ts", "Africa"},
+                    new String[]{"Tunisia", "Tunis", "tn", "Africa"},
 //
-                    new String[]{"Turkey", "Ankara", "tu", "Asia"},
+                    new String[]{"Turkey", "Ankara", "tr", "Asia"},
 //
-                    new String[]{"Turkmenistan", "Ashkhabad", "tx", "Asia"},
+                    new String[]{"Turkmenistan", "Ashkhabad", "tm", "Asia"},
 //
-                    new String[]{"Turks and Caicos Islands", "Cockburn Town", "tk", "America"},
+                    new String[]{"Turks and Caicos Islands", "Cockburn Town", "tc", "America"},
 //
                     new String[]{"Tuvalu", "Funafuti", "tv", "Oceania"},
 //
                     new String[]{"Uganda", "Kampala", "ug", "Africa"},
 //
-                    new String[]{"Ukraine", "Kiev", "up", "Europe"},
+                    new String[]{"Ukraine", "Kiev", "ua", "Europe"},
 //
                     new String[]{"United Arab Emirates", "Abu Dhabi ", "ae", "Asia"},
 //
-                    new String[]{"United Kingdom", "London", "uk", "Europe"},
+                    new String[]{"United Kingdom", "London", "gb", "Europe"},
 //
                     new String[]{"United States", "Washington, DC", "us", "America"},
 //
-                    new String[]{"United States Virgin Islands", "Charlotte Amalie", "vq", "America"},
+                    new String[]{"United States Virgin Islands", "Charlotte Amalie", "vi", "America"},
 //
                     new String[]{"Uruguay", "Montevideo", "uy", "America"},
 //
                     new String[]{"Uzbekistan", "Tashkent", "uz", "Asia"},
 //
-                    new String[]{"Vanuatu", "Vila", "nh", "Oceania"},
+                    new String[]{"Vanuatu", "Vila", "vu", "Oceania"},
 //
-                    new String[]{"Vatican City", "The Vatican", "vt", "Europe"},
+                    new String[]{"Vatican City", "The Vatican", "va", "Europe"},
 //
                     new String[]{"Venezuela", "Caracas", "ve", "America"},
 //
-                    new String[]{"Vietnam", "Hanoi", "vm", "Asia"},
+                    new String[]{"Vietnam", "Hanoi", "vn", "Asia"},
 //
                     new String[]{"Wallis and Futuna", "Mata-Utu", "wf", "America"},
 //
-                    new String[]{"Western Sahara", "none", "wi", "Africa"},
+                    new String[]{"Western Sahara", "none", "eh", "Africa"},
 //
-                    new String[]{"Yemen", "San’a", "ym", "Asia"},
+                    new String[]{"Yemen", "San’a", "ye", "Asia"},
 //
-                    new String[]{"Zambia", "Lusaka", "za", "Africa"},
+                    new String[]{"Zambia", "Lusaka", "zm", "Africa"},
 //
-                    new String[]{"Zimbabwe", "Harare", "zi", "Africa"}
+                    new String[]{"Zimbabwe", "Harare", "zw", "Africa"}
             };
 
-    public static String normalize(String resource_name) {
-        String name = resource_name.toLowerCase();
-        name = name.replace("-", " ");
-        name = name.replace("(", "");
-        name = name.replace(")", "");
-        name = name.replace("'", "");
-        name = name.replace(' ', '_');
-        return name;
-    }
+    // Images are named <prefix><iso_code>, e.g. flag_bg, quiz_flag_bg, quiz_location_bg
+    public static final String FLAG_PREFIX = "flag_";
+    public static final String QUIZ_FLAG_PREFIX = "quiz_flag_";
+    public static final String QUIZ_LOCATION_PREFIX = "quiz_location_";
 
     private static final HashMap<String, Integer> imageCache = new HashMap<String, Integer>(256);
 
-    public static int getFlag(Context context, String countryName) {
-        countryName = "flag_" + countryName;
-        Integer resId = imageCache.get(countryName);
+    public static int getFlag(Context context, String isoCode) {
+        String name = FLAG_PREFIX + isoCode;
+        Integer resId = imageCache.get(name);
         if (resId != null) {
             return resId;
         }
-        String name = normalize(countryName);
-        resId = context.getResources().getIdentifier(name, "drawable", context.getPackageName());
-        imageCache.put(countryName, resId);
+        resId = getResourceByName(context, name);
+        imageCache.put(name, resId);
         return resId;
     }
 
     public static int getResourceByName(Context context, String name) {
-        name = normalize(name);
-        int resId = context.getResources().getIdentifier(name, "drawable", context.getPackageName());
-        return resId;
+        return context.getResources().getIdentifier(name, "drawable", context.getPackageName());
     }
 }

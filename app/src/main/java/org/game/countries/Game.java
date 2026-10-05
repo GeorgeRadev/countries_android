@@ -96,7 +96,7 @@ public class Game {
         switch (questionType) {
             case FLAG:
                 question = questionTypePrefix[0];
-                questionImage = "quiz_flag_" + DB.dbStrings[questionIndexes[currentIndex]][2];
+                questionImage = DB.QUIZ_FLAG_PREFIX + DB.dbStrings[questionIndexes[currentIndex]][2];
                 break;
             case CAPITAL:
                 question = questionTypePrefix[1] + "\n" + DB.dbStrings[questionIndexes[currentIndex]][0] + " ?";
@@ -108,7 +108,7 @@ public class Game {
                 break;
             case MAP:
                 question = questionTypePrefix[3];
-                questionImage = "quiz_location_" + DB.dbStrings[questionIndexes[currentIndex]][0];
+                questionImage = DB.QUIZ_LOCATION_PREFIX + DB.dbStrings[questionIndexes[currentIndex]][2];
                 break;
         }
 

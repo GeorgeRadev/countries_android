@@ -1,8 +1,8 @@
 package org.game.countries;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -57,9 +57,9 @@ public class CountriesListAdapter extends ArrayAdapter<String[]> implements Sect
             ImageView image = convertView.findViewById(R.id.countryListRawImage);
             int resId = 0;
             try {
-                resId = DB.getFlag(context, getItem(position)[0]);
-                //resId = DB.getResourceByName(context, "quiz_flag_"+getItem(position)[2]);
-                //resId = DB.getResourceByName(context, "quiz_location_"+getItem(position)[0]);
+                resId = DB.getFlag(context, getItem(position)[2]);
+                //resId = DB.getResourceByName(context, DB.QUIZ_FLAG_PREFIX + getItem(position)[2]);
+                //resId = DB.getResourceByName(context, DB.QUIZ_LOCATION_PREFIX + getItem(position)[2]);
             } catch (Exception e) {
                 e.printStackTrace();
             }
